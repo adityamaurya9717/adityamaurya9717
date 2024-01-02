@@ -3,7 +3,7 @@ Aditya Maurya
 
 </> Programming Languages: Java, JavaScript, TypeScript. <br>
 👨 Data structures and Algorithms.<br>
-🖥️ Front-end development: ReactJs , Html , Css.<br>
-🖥️ Back-end development: Spring Boot , Java .<br>
+🖥️ Front-end development: ReactJS, NextJS , HTML , CSS .<br>
+🖥️ Back-end development: Spring Boot , Java , Spring Data JPA  .<br>
 ⛁ Databases: SQL , MongoDb , Elastic Search. <br>
 🔭 Love to Code Clean, concisely, and Follow Best Practices.
